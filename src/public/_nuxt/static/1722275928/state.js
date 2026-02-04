@@ -57,13 +57,13 @@ window.__NUXT__ = (function (
           coinmarketcap:
             "https:\u002F\u002Fcoinmarketcap.com\u002Fcurrencies\u002Fdogelon\u002F",
           etherscan:
-            "https:\u002F\u002Fetherscan.io\u002Ftoken\u002F0xcomingsoon",
+            "https:\u002F\u002Fetherscan.io\u002Ftoken\u002F0x08CD78B29aE435578820B1a3d256c1D6D5EcD6b1",
           instagram:
             "https:\u002F\u002Fwww.instagram.com\u002Fdogelonmars\u002F",
           telegram: "https:\u002F\u002Ft.me\u002FDogelonMars",
           twitter: "https:\u002F\u002Ftwitter.com\u002FDogelonMars",
           uniswap:
-            "https:\u002F\u002Fapp.uniswap.org\u002Fswap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+            "https:\u002F\u002Fapp.uniswap.org\u002Fswap?inputCurrency=ETH&outputCurrency=0x08CD78B29aE435578820B1a3d256c1D6D5EcD6b1",
           footTitle: "I am Elon Neiro.",
           footSubtitle:
             "Missed Neiro? Join Elon Neiro to the mission moon!",
@@ -158,7 +158,7 @@ window.__NUXT__ = (function (
             {
               id: "NSTQQHtdTcWBfEVE50oGCQ",
               name: "Uniswap",
-              url: "https:\u002F\u002Fapp.uniswap.org\u002Fswap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+              url: "https:\u002F\u002Fapp.uniswap.org\u002Fswap?inputCurrency=eth&outputCurrency=0x08CD78B29aE435578820B1a3d256c1D6D5EcD6b1",
               logo: {
                 url: "https:\u002F\u002Fwww.datocms-assets.com\u002F127694\u002F1716908007-uniswap.png",
               },

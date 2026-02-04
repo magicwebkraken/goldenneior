@@ -2395,7 +2395,7 @@
                             staticClass:
                               "mt-20 pointer-events-auto js-t-up js-i-up",
                             attrs: {
-                              to: "https://app.uniswap.org/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                              to: "https://app.uniswap.org/swap?inputCurrency=eth&outputCurrency=0x08CD78B29aE435578820B1a3d256c1D6D5EcD6b1",
                               label: "Buy $ELONEIRO",
                             },
                           }),

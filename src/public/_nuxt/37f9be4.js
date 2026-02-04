@@ -8323,7 +8323,7 @@
                                     "BaseButton",
                                     {
                                       attrs: {
-                                        to: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                                        to: "https://www.dextools.io/app/en/ether/pair-explorer/0x08CD78B29aE435578820B1a3d256c1D6D5EcD6b1",
                                         label: "Reddit",
                                         circle: !0,
                                       },
@@ -8800,7 +8800,7 @@
                           ref: "up2",
                           staticClass: "mt-30 s:mt-35 pointer-events-auto",
                           attrs: {
-                            to: "https://app.uniswap.org/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                            to: "https://app.uniswap.org/swap?inputCurrency=eth&outputCurrency=0x08CD78B29aE435578820B1a3d256c1D6D5EcD6b1",
                             label: "Buy $ELONEIRO",
                           },
                         }),
@@ -8995,7 +8995,7 @@
                                       "BaseButton",
                                       {
                                         attrs: {
-                                          to: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                                          to: "https://www.dextools.io/app/en/ether/pair-explorer/0x08CD78B29aE435578820B1a3d256c1D6D5EcD6b1",
                                           label: "Reddit",
                                           circle: !0,
                                         },
@@ -9637,7 +9637,7 @@
                             "BaseButton",
                             {
                               attrs: {
-                                to: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                                to: "https://www.dextools.io/app/en/ether/pair-explorer/0x08CD78B29aE435578820B1a3d256c1D6D5EcD6b1",
                                 label: "Reddit",
                                 circle: !0,
                               },
