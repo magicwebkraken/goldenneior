@@ -2730,7 +2730,7 @@
                                 [
                                   e("BaseButton", {
                                     attrs: {
-                                      to: "https://x.com/ElonNeiro",
+                                      to: "https://x.com/elonneiro",
                                       label: "Follow",
                                     },
                                   }),
@@ -2739,7 +2739,7 @@
                                     "BaseButton",
                                     {
                                       attrs: {
-                                        to: "https://x.com/ElonNeiro",
+                                        to: "https://x.com/elonneiro",
                                         label: "Twitter",
                                         circle: !0,
                                       },

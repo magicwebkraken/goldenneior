@@ -7846,7 +7846,7 @@
                   title: "Media",
                   items: [
                     { title: "Telegram", to: "https://t.me/elonneiro" },
-                    { title: "X", to: "https://x.com/ElonNeiro" },
+                    { title: "X", to: "https://x.com/elonneiro" },
                   ],
                 },
               ],
@@ -7854,7 +7854,7 @@
                 {
                   title: "Media",
                   items: [
-                    { title: "X", to: "https://x.com/ElonNeiro" },
+                    { title: "X", to: "https://x.com/elonneiro" },
                     { title: "Telegram", to: "https://t.me/elonneiro" },
                   ],
                 },
@@ -8256,7 +8256,7 @@
                                     "BaseButton",
                                     {
                                       attrs: {
-                                        to: "https://x.com/ElonNeiro",
+                                        to: "https://x.com/elonneiro",
                                         label: "Twitter",
                                         circle: !0,
                                       },
@@ -8916,7 +8916,7 @@
                                       "BaseButton",
                                       {
                                         attrs: {
-                                          to: "https://x.com/ElonNeiro",
+                                          to: "https://x.com/elonneiro",
                                           label: "Twitter",
                                           circle: !0,
                                         },
@@ -9550,7 +9550,7 @@
                             "BaseButton",
                             {
                               attrs: {
-                                to: "https://x.com/ElonNeiro",
+                                to: "https://x.com/elonneiro",
                                 label: "Twitter",
                                 circle: !0,
                               },

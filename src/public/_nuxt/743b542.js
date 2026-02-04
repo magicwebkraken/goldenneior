@@ -1081,7 +1081,7 @@
                 { title: "Comics", to: "/comics" },
                 { title: "Episodes", to: "/episodes" },
                 { title: "Telegram", to: "https://t.me/elonneiro" },
-                { title: "X", to: "https://x.com/ElonNeiro" },
+                { title: "X", to: "https://x.com/elonneiro" },
                 { title: "Collabs", to: "/collaborations" },
               ],
               active: !1,
